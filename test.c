@@ -8,5 +8,8 @@ int main(){
 	printf("Practicing English!\r\n");
 	scanf("%d",&x);
 	printf("convert to hex is %x\r\n`",x);
+	
+	printf("join the git usage\r\n");
+	
 	return 0;
 }
